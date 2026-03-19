@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Explorando IAs
 
 ## 📒 Descrição
 Projeto desenvolvido com intuito de explorar ferramentas de IA generativas e compreender seus processos.
